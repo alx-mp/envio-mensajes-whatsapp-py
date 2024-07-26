@@ -1,0 +1,6 @@
+build
+dist
+.venv
+color.png
+PyWhatKit_DB.txt
+sendMensajes.spec

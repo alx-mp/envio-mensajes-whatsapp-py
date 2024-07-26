@@ -1,0 +1,9 @@
+--------------------ELIMINAR ESTA SECCION------------------
+EN ESTE ARCHIVO SOLAMENTE COLOCAR LOS NUMERO DE CELULAR QUE
+VAN A ENVIARSE LOS MENSAJES DE WHATSAPP
+
+EJ.
+
++593 000 000 000, +593 000 000 000, +593 000 000 000, ..... +593 000 000 000
+
+-----------------------------------------------------------
